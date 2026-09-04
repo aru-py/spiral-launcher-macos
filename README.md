@@ -9,3 +9,9 @@ This is a Keyboard Maestro macro which allows launching any site with a few lett
 ## Setup
 
 Import the the `Spiral Launcher.kmmacros` into Keyboard Maestro and set up your bookmarks.
+
+
+## License
+
+The code in this repository is free to use, modify, and redistribute. The wand icon is the property of KingsIsle Entertainment and is used here without
+affiliation or endorsement. The name is inspired by The Spiral from Wizard101.

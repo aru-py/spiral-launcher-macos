@@ -8,8 +8,9 @@ This is a Keyboard Maestro macro which allows launching any site with a few lett
 
 ## Setup
 
-Import the the `Spiral Launcher.kmmacros` into Keyboard Maestro and set up your bookmarks.
-
+1. Import the the `Spiral Launcher.kmmacros` into Keyboard Maestro
+2. Install `jq` in your environment (`brew install jq`)
+3. Set up bookmarks with tags
 
 ## License
 
